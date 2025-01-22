@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# GridRIRDataset
-Real RIR datasets for sound sources at grid locations in the room.
-=======
 # Real Grid RIR Dataset 
 This dataset contains real collected room impluse response (RIR) from a meeting room. 
 The dataset is a location-specific RIR dataset where microphones are static and sound sources are distributed on a grid on the room floor. The RIR is collected using sine sweep method and is collected using an eight-channel microphone.
