@@ -14,6 +14,8 @@ This dataset is suitable for spatial-based research, especially the distance-rel
   <img src="image-4.png" alt="Image 2" width="40%">
 </p>
 
+# Download
+https://zenodo.org/records/14717170
 
 # Infos and preprocessing
 - The dataset is collected using an eight-channel microphone, the channel 1 (RIR1.wav) is the negative direction along the y-axis as shown in the figure. Channel1 to channel8 (RIR1.wav to RIR8.wav) are arranged counterclockwise from the top-down view.
